@@ -1,14 +1,3 @@
----
-title: EEG Motor Imagery Music Composer
-emoji: 🧠🎵
-colorFrom: blue
-colorTo: purple
-sdk: docker
-pinned: false
-license: mit
-short_description: Compose music using EEG motor imagery signals
----
-
 # 🧠 NeuroMusic Studio
 
 A user-friendly, accessible neuro-music studio for motor rehabilitation and creative exploration. Compose and remix music using EEG motor imagery signals—no musical experience required!
@@ -50,5 +39,6 @@ A user-friendly, accessible neuro-music studio for motor rehabilitation and crea
 - Audio stems: [SoundHelix](https://www.soundhelix.com/)
 
 ## License
+
 
 MIT License - see LICENSE file for details.
