@@ -2,6 +2,7 @@
 
 A user-friendly, accessible neuro-music studio for motor rehabilitation and creative exploration. Compose and remix music using EEG motor imagery signals—no musical experience required!
 
+![euro-music-studio](euro-music-studio.jpg)
 ## Features
 
 - **Automatic Composition:** Layer musical stems (bass, drums, instruments, vocals) by imagining left/right hand or leg movements. Each correct, high-confidence prediction adds a new sound.
@@ -42,4 +43,5 @@ A user-friendly, accessible neuro-music studio for motor rehabilitation and crea
 
 
 MIT License - see LICENSE file for details.
+
 
