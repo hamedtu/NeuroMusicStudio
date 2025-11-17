@@ -1,0 +1,11 @@
+gradio==5.47.0
+numpy==2.3.3
+pandas==2.3.2
+matplotlib==3.10.6
+mne==1.10.1
+soundfile==0.13.1
+scipy==1.16.2
+torch==2.8.0
+torchaudio==2.8.0
+braindecode==1.2.0
+scikit-learn==1.7.2
