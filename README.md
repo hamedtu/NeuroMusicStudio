@@ -1,4 +1,4 @@
-# 🧠 NeuroMusic Studio
+# NeuroMusic Studio
 
 A user-friendly, accessible neuro-music studio for motor rehabilitation and creative exploration. Compose and remix music using EEG motor imagery signals—no musical experience required!
 
@@ -35,10 +35,11 @@ A user-friendly, accessible neuro-music studio for motor rehabilitation and crea
 
 ## Credits
 
-- Developed by Sofia Fregni. Model training by Kasia. Deployment by Hamed Koochaki Kelardeh.
+- Developed and Deployed by Hamed Koochaki Kelardeh, Sofia Fregni, and Katarzyna Kuhlmann.
 - Audio stems: [SoundHelix](https://www.soundhelix.com/)
 
 ## License
 
 
 MIT License - see LICENSE file for details.
+
